@@ -1,8 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Required Libraries
-
-Install `npm install --save styled-components`
+After cloning the project,
+First, install `npm install`
+Then install `npm install --save styled-components`
 If needed, install `npm install @reach/router`
 
 ## Available Scripts
